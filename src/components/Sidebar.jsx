@@ -7,7 +7,7 @@ const Sidebar = () => {
 
 
     useEffect(() => {
-        fetch("http://localhost:5000/blogs").then(res => res.json())
+        fetch("http://localhost:5173/api/blogsData.json").then(res => res.json())
             .then(data => setPopularBlogs(data.slice(0,15)))
     }, []);
 

@@ -14,7 +14,7 @@ const BlogPage = () => {
 
     useEffect(() => {
         async function fetchBlogs() {
-            let url = `http://localhost:5000/blogs?page=${currentPage}&limit=${pageSize}`;
+            let url = `http://localhost:5173/api/blogsData.json?page=${currentPage}&limit=${pageSize}`;
 
 
             // filter by category

@@ -1,13 +1,14 @@
 import React from 'react';
-import {useLoaderData} from "react-router-dom";
+import {useLoaderData, useParams} from "react-router-dom";
 import {FaUser } from "react-icons/fa"
 import {FaClock, FaU} from "react-icons/fa6"
 import Sidebar from "../components/Sidebar.jsx";
 
 
 const SingleBlog = () => {
+    let { id } = useParams();
     const data = useLoaderData();
-    const {title, image, category, author, published_date, reading_time, content} = data[0];
+    const { title, image, category, author, published_date, reading_time, content} = data[id];
     return (
         <div>
             <div className="py-40 bg-black text-center text-white px-4">
