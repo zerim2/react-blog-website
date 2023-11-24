@@ -8,7 +8,7 @@ import Sidebar from "../components/Sidebar.jsx";
 const SingleBlog = () => {
     let { id } = useParams();
     const data = useLoaderData();
-    const { title, image, category, author, published_date, reading_time, content} = data[id+1];
+    const { title, image, category, author, published_date, reading_time, content} = data[id-1];
     return (
         <div>
             <div className="py-40 bg-black text-center text-white px-4">
