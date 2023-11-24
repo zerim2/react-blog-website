@@ -1,6 +1,6 @@
 [
     {
-        "id": 3,
+        "id": 1,
         "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
         "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
         "category": "Health",
@@ -12,7 +12,7 @@
         "tags": ["Biotech", "Health"]
     },
     {
-        "id": 4,
+        "id": 2,
         "title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
         "image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
         "category": "Fintech",
@@ -24,7 +24,7 @@
         "tags": ["Fintech", "Writing"]
     },
     {
-        "id": 5,
+        "id": 3,
         "title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -36,7 +36,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 6,
+        "id": 4,
         "title": "Recapitalization, $60M Series D support growth of e-commerce financier Clearco",
         "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
         "category": "Fintech",
@@ -48,7 +48,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 7,
+        "id": 5,
         "title": "Rabbit is building an AI model that understands how software works",
         "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -60,7 +60,7 @@
         "tags": ["AI", "Writing"]
     },
     {
-        "id": 8,
+        "id": 6,
         "title": "Okta plans to weave AI across its entire identity platform using multiple models",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
         "category": "Security",
@@ -72,7 +72,7 @@
         "tags": ["Security", "Writing"]
     },
     {
-        "id": 9,
+        "id": 7,
         "title": "Yubico can now ship pre-registered security keys to its enterprise users",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
         "category": "Enterprise",
@@ -84,7 +84,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 10,
+        "id": 8,
         "title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
         "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -96,7 +96,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 11,
+        "id": 9,
         "title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
         "category": "Growth",
@@ -108,7 +108,7 @@
         "tags": ["Growth", "Writing"]
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Yahoo spins out Vespa, its search tech, into an independent company",
         "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -120,7 +120,7 @@
         "tags": ["AI", "Writing"]
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
         "image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
         "category": "Apps",
@@ -132,7 +132,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
         "category": "Apps",
